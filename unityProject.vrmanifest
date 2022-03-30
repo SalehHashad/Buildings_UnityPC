@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.univarsityhall.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Saleh Hashad\\MeetingRoomVR_Unity\\University Hall\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "univarsity hall [Testing]"
+        }
+      }
+    }
+  ]
+}
